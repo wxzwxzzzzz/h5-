@@ -1,0 +1,28 @@
+<swiper indicator-dots autoplay class="lunbo">
+  <swiper-item>
+    <image src="/pages/images/slide_1.jpg"></image>
+  </swiper-item>
+  <swiper-item>
+    <image src="/pages/images/slide_2.jpg"></image>
+  </swiper-item>
+  <swiper-item>
+    <image src="/pages/images/slide_3.jpg"></image>
+  </swiper-item>
+  <swiper-item>
+    <image src="/pages/images/slide_4.jpg"></image>
+  </swiper-item>
+  <swiper-item>
+    <image src="/pages/images/slide_5.jpg"></image>
+  </swiper-item>
+</swiper>
+
+<view class="active">乐园活动</view>
+
+<view class="item">
+  <image src="/pages/images/item_1.png"></image>
+  <view class="content">
+    <view class="top">摄影兴趣班- 7天教会你精通摄影，培养孩子兴趣从娃娃抓起</view>
+    <view class="bottom">200人已报名200人已报名200人已报名</view>
+    <view class="float">免费</view>
+  </view>
+</view>

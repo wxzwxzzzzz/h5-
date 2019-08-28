@@ -1,0 +1,51 @@
+/* pages/leyuan/index.wxss */
+.lunbo{
+  height: 320rpx
+}
+ image{
+  width: 750rpx;
+  height: 320rpx
+}
+.active{
+  font-family: FZLTCHJW--GB1-0;
+  font-size: 14px;
+  color: #3C3C3C;
+  letter-spacing: 0.01px;
+  padding: 10rpx 0 10rpx 15rpx;
+  font-weight: 700
+}
+.item image{
+  display: block
+}
+.content{
+  position: relative
+}
+.content .top{
+  width: 600rpx;
+  height: 86rpx;
+  font-family: FZLTHJW--GB1-0;
+  font-size: 14px;
+  color: #3C3C3C;
+  line-height: 21px;
+  padding-left: 30rpx;
+  padding-top: 16rpx;
+
+
+}
+.content .bottom{
+  font-family: FZLTHJW--GB1-0;
+  font-size: 11px;
+  color: #B4B4B4;
+  letter-spacing: 0.05px;
+  padding-top: 16rpx;
+  padding-left: 30rpx
+}
+.float{
+  font-family: FZLTHJW--GB1-0;
+  font-size: 15px;
+  color: #FE6249;
+  letter-spacing: 0.07px;
+  position: absolute;
+  right: 30rpx;
+  top: 16rpx
+}

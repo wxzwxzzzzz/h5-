@@ -1,0 +1,45 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/leyuan/index"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json",
+  "tabBar":{
+    "color":"#ccc",
+    "selectedColor":"#d81e06",
+    "backgroundColor":"#FECA49",
+    "list":[
+      {
+        "iconPath": "pages/images/首页.png",
+        "selectedIconPath": "pages/images/首页 01.png",
+        "pagePath": "pages/index/index",
+        "text": "首页"
+      },
+      {
+        "iconPath": "pages/images/我的优惠卷.png",
+        "selectedIconPath": "pages/images/我的优惠卷 01.png",
+        "pagePath": "pages/index/index",
+        "text": "卡卷"
+      },
+      {
+        "iconPath": "pages/images/活动.png",
+        "selectedIconPath": "pages/images/活动 01.png",
+        "pagePath": "pages/leyuan/index",
+        "text": "活动"
+      },
+      {
+        "iconPath": "pages/images/我的.png",
+        "selectedIconPath": "pages/images/我的 01.png",
+        "pagePath": "pages/index/index",
+        "text": "我的"
+      }
+    ]
+  }
+}
